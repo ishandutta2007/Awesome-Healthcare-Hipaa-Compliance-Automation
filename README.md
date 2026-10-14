@@ -68,75 +68,75 @@ The table below summarizes leading commercial SaaS and hosted platforms for auto
 
 ## 🔓 Open-Source GitHub Projects & Repositories
 
-Explore vetted open-source security tools, de-identification libraries, GRC suites, and HIPAA scanners. Repositories are ranked descending by **GitHub Stars**, and each star badge links directly to that repository's Stargazers community.
+Explore vetted open-source security tools, de-identification libraries, GRC suites, and HIPAA scanners. Repositories are ranked descending by **GitHub_Stars**, and each Stars_Badge links directly to that repository's Stargazers community.
 
-1. **[Wazuh](https://github.com/wazuh/wazuh)** [![GitHub stars](https://img.shields.io/github/stars/wazuh/wazuh?style=social&color=white)](https://github.com/wazuh/wazuh/stargazers)  
+1. **[Wazuh](https://github.com/wazuh/wazuh)** [![GitHub_Stars](https://img.shields.io/github/stars/wazuh/wazuh?style=social&color=white)](https://github.com/wazuh/wazuh/stargazers)  
    🛡️ *The Open Source Security Platform.* Unified XDR and SIEM protection providing out-of-the-box regulatory compliance mapping for **HIPAA**, PCI DSS, GDPR, and NIST 800-53. Automates log analysis, file integrity monitoring (FIM), vulnerability detection, and system audit trails required under HIPAA §164.312(b).
 
-2. **[Lynis](https://github.com/CISOfy/lynis)** [![GitHub stars](https://img.shields.io/github/stars/CISOfy/lynis?style=social&color=white)](https://github.com/CISOfy/lynis/stargazers)  
+2. **[Lynis](https://github.com/CISOfy/lynis)** [![GitHub_Stars](https://img.shields.io/github/stars/CISOfy/lynis?style=social&color=white)](https://github.com/CISOfy/lynis/stargazers)  
    🔍 *Battle-tested security auditing & system hardening tool.* Agentless CLI scanner for Linux, macOS, and UNIX operating systems. Evaluates security defenses and system configurations against **HIPAA**, ISO 27001, and PCI DSS hardening baselines.
 
-3. **[Presidio](https://github.com/data-privacy-stack/presidio)** [![GitHub stars](https://img.shields.io/github/stars/data-privacy-stack/presidio?style=social&color=white)](https://github.com/data-privacy-stack/presidio/stargazers)  
+3. **[Presidio](https://github.com/data-privacy-stack/presidio)** [![GitHub_Stars](https://img.shields.io/github/stars/data-privacy-stack/presidio?style=social&color=white)](https://github.com/data-privacy-stack/presidio/stargazers)  
    🧪 *Context-aware PII & PHI de-identification and anonymization SDK.* Developed by Microsoft / Data Privacy Stack. Features pluggable Named Entity Recognition (NER) models and rule-based recognizers to detect, redact, hash, mask, and pseudonymize 18 HIPAA Safe Harbor PHI categories in unstructured text and images.
 
-4. **[Baserow](https://github.com/baserow/baserow)** [![GitHub stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)  
+4. **[Baserow](https://github.com/baserow/baserow)** [![GitHub_Stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)  
    📊 *Open-source no-code database & application builder.* Self-hostable Airtable alternative with enterprise role-based access control, audit logging, database encryption, and self-hosting options enabling **HIPAA, GDPR, and SOC 2** compliant data workflows.
 
-5. **[Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)** [![GitHub stars](https://img.shields.io/github/stars/cloud-custodian/cloud-custodian?style=social&color=white)](https://github.com/cloud-custodian/cloud-custodian/stargazers)  
+5. **[Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)** [![GitHub_Stars](https://img.shields.io/github/stars/cloud-custodian/cloud-custodian?style=social&color=white)](https://github.com/cloud-custodian/cloud-custodian/stargazers)  
    ☁️ *Rules engine for cloud security, governance, and compliance.* Enables lightweight YAML policies to continuously audit, enforce encryption-at-rest (§164.312(a)(2)(iv)), and remediate non-compliant AWS, Azure, and GCP resources for HIPAA cloud environments.
 
-6. **[OpenMed](https://github.com/maziyarpanahi/openmed)** [![GitHub stars](https://img.shields.io/github/stars/maziyarpanahi/openmed?style=social&color=white)](https://github.com/maziyarpanahi/openmed/stargazers)  
+6. **[OpenMed](https://github.com/maziyarpanahi/openmed)** [![GitHub_Stars](https://img.shields.io/github/stars/maziyarpanahi/openmed?style=social&color=white)](https://github.com/maziyarpanahi/openmed/stargazers)  
    🧠 *Local-first healthcare AI with clinical NER and HIPAA PHI de-identification.* High-performance offline ML framework supporting 2,200+ medical models across Python, MLX, Android, and web runtimes to detect and redact medical entities without leaking PHI to external APIs.
 
-7. **[OpenEMR](https://github.com/openemr/openemr)** [![GitHub stars](https://img.shields.io/github/stars/openemr/openemr?style=social&color=white)](https://github.com/openemr/openemr/stargazers)  
+7. **[OpenEMR](https://github.com/openemr/openemr)** [![GitHub_Stars](https://img.shields.io/github/stars/openemr/openemr?style=social&color=white)](https://github.com/openemr/openemr/stargazers)  
    🏥 *The most widely adopted open-source Electronic Health Record (EHR) & medical management system.* ONC-certified with granular role-based access controls (RBAC), electronic prescribing, encrypted records, and HIPAA-compliant system activity logging.
 
-8. **[CISO Assistant](https://github.com/intuitem/ciso-assistant-community)** [![GitHub stars](https://img.shields.io/github/stars/intuitem/ciso-assistant-community?style=social&color=white)](https://github.com/intuitem/ciso-assistant-community/stargazers)  
+8. **[CISO Assistant](https://github.com/intuitem/ciso-assistant-community)** [![GitHub_Stars](https://img.shields.io/github/stars/intuitem/ciso-assistant-community?style=social&color=white)](https://github.com/intuitem/ciso-assistant-community/stargazers)  
    📋 *Comprehensive open-source GRC platform.* Covers risk assessments, application security, audit evidence tracking, and policy mapping. Supports 100+ security frameworks out-of-the-box including **HIPAA**, NIST CSF, ISO 27001, SOC 2, and GDPR with automatic control cross-mapping.
 
-9. **[Medplum](https://github.com/medplum/medplum)** [![GitHub stars](https://img.shields.io/github/stars/medplum/medplum?style=social&color=white)](https://github.com/medplum/medplum/stargazers)  
+9. **[Medplum](https://github.com/medplum/medplum)** [![GitHub_Stars](https://img.shields.io/github/stars/medplum/medplum?style=social&color=white)](https://github.com/medplum/medplum/stargazers)  
    ⚡ *Headless healthcare platform & FHIR backend engine.* Provides a developer-friendly API, compliant identity management, patient portals, and automated audit trails designed from the ground up for HIPAA and SOC 2 regulated health applications.
 
-10. **[HAPI FHIR](https://github.com/hapifhir/hapi-fhir)** [![GitHub stars](https://img.shields.io/github/stars/hapifhir/hapi-fhir?style=social&color=white)](https://github.com/hapifhir/hapi-fhir/stargazers)  
+10. **[HAPI FHIR](https://github.com/hapifhir/hapi-fhir)** [![GitHub_Stars](https://img.shields.io/github/stars/hapifhir/hapi-fhir?style=social&color=white)](https://github.com/hapifhir/hapi-fhir/stargazers)  
     🔥 *The complete open-source FHIR implementation in Java.* Powers healthcare interoperability, secure HL7/FHIR storage, patient data provenance, and HIPAA-compliant healthcare data exchange worldwide.
 
-11. **[TrueVault HIPAA Developer Guide](https://github.com/truevault-safe/hipaa-compliance-developers-guide)** [![GitHub stars](https://img.shields.io/github/stars/truevault-safe/hipaa-compliance-developers-guide?style=social&color=white)](https://github.com/truevault-safe/hipaa-compliance-developers-guide/stargazers)  
+11. **[TrueVault HIPAA Developer Guide](https://github.com/truevault-safe/hipaa-compliance-developers-guide)** [![GitHub_Stars](https://img.shields.io/github/stars/truevault-safe/hipaa-compliance-developers-guide?style=social&color=white)](https://github.com/truevault-safe/hipaa-compliance-developers-guide/stargazers)  
     📖 *Developer blueprint for HIPAA compliance & secure application engineering.* Detailed technical patterns for encryption keys, transmission security, data backup, and physical safeguards for software teams.
 
-12. **[Comply](https://github.com/strongdm/comply)** [![GitHub stars](https://img.shields.io/github/stars/strongdm/comply?style=social&color=white)](https://github.com/strongdm/comply/stargazers)  
+12. **[Comply](https://github.com/strongdm/comply)** [![GitHub_Stars](https://img.shields.io/github/stars/strongdm/comply?style=social&color=white)](https://github.com/strongdm/comply/stargazers)  
     📝 *SOC 2 and HIPAA compliance automation CLI.* Markdown-driven compliance-as-code management tool that automates policy publication, employee acknowledgments, and recurring compliance tickets.
 
-13. **[Parse-HIPAA](https://github.com/netreconlab/parse-hipaa)** [![GitHub stars](https://img.shields.io/github/stars/netreconlab/parse-hipaa?style=social&color=white)](https://github.com/netreconlab/parse-hipaa/stargazers)  
+13. **[Parse-HIPAA](https://github.com/netreconlab/parse-hipaa)** [![GitHub_Stars](https://img.shields.io/github/stars/netreconlab/parse-hipaa?style=social&color=white)](https://github.com/netreconlab/parse-hipaa/stargazers)  
     🔒 *HIPAA & GDPR compliant Parse Server stack.* Includes Docker configurations, PostgreSQL/MongoDB setups, and integration with ParseCareKit for building secure digital health and mobile medical apps.
 
-14. **[PhantomTrace](https://github.com/vabhishek6/PhantomTrace)** [![GitHub stars](https://img.shields.io/github/stars/vabhishek6/PhantomTrace?style=social&color=white)](https://github.com/vabhishek6/PhantomTrace/stargazers)  
+14. **[PhantomTrace](https://github.com/vabhishek6/PhantomTrace)** [![GitHub_Stars](https://img.shields.io/github/stars/vabhishek6/PhantomTrace?style=social&color=white)](https://github.com/vabhishek6/PhantomTrace/stargazers)  
     ⚡ *High-speed Rust detection & masking engine.* Scans log streams and text for PCI, PII, and PHI, providing tokenization and audit logs with microsecond latency.
 
-15. **[DeIDClinic](https://github.com/angelpaulml17/DeIDClinic)** [![GitHub stars](https://img.shields.io/github/stars/angelpaulml17/DeIDClinic?style=social&color=white)](https://github.com/angelpaulml17/DeIDClinic/stargazers)  
+15. **[DeIDClinic](https://github.com/angelpaulml17/DeIDClinic)** [![GitHub_Stars](https://img.shields.io/github/stars/angelpaulml17/DeIDClinic?style=social&color=white)](https://github.com/angelpaulml17/DeIDClinic/stargazers)  
     🩺 *Clinical text de-identification using BioBERT and ClinicalBERT.* Transformer-driven PHI detection pipeline tailored for hospital discharge notes and clinical summaries.
 
-16. **[MCP-HIPAA](https://github.com/Gautam-Galada/MCP-HIPAA)** [![GitHub stars](https://img.shields.io/github/stars/Gautam-Galada/MCP-HIPAA?style=social&color=white)](https://github.com/Gautam-Galada/MCP-HIPAA/stargazers)  
+16. **[MCP-HIPAA](https://github.com/Gautam-Galada/MCP-HIPAA)** [![GitHub_Stars](https://img.shields.io/github/stars/Gautam-Galada/MCP-HIPAA?style=social&color=white)](https://github.com/Gautam-Galada/MCP-HIPAA/stargazers)  
     🤖 *HIPAA-compliant medical AI agent using the Model Context Protocol (MCP).* Features local LLM inference, role-based data masking, and secure medical imaging workflows.
 
-17. **[Verification-Layer (vlayer)](https://github.com/Francosimon53/verification-layer)** [![GitHub stars](https://img.shields.io/github/stars/Francosimon53/verification-layer?style=social&color=white)](https://github.com/Francosimon53/verification-layer/stargazers)  
+17. **[Verification-Layer (vlayer)](https://github.com/Francosimon53/verification-layer)** [![GitHub_Stars](https://img.shields.io/github/stars/Francosimon53/verification-layer?style=social&color=white)](https://github.com/Francosimon53/verification-layer/stargazers)  
     🔬 *HIPAA compliance code scanner with 140+ AST security rules.* Includes CI/CD integrations, a VS Code extension with real-time save scanning, and optional AI-assisted false-positive reduction.
 
-18. **[DataGovernanceWorkflow](https://github.com/amr-yasser226/DataGovernanceWorkflow)** [![GitHub stars](https://img.shields.io/github/stars/amr-yasser226/DataGovernanceWorkflow?style=social&color=white)](https://github.com/amr-yasser226/DataGovernanceWorkflow/stargazers)  
+18. **[DataGovernanceWorkflow](https://github.com/amr-yasser226/DataGovernanceWorkflow)** [![GitHub_Stars](https://img.shields.io/github/stars/amr-yasser226/DataGovernanceWorkflow?style=social&color=white)](https://github.com/amr-yasser226/DataGovernanceWorkflow/stargazers)  
     🔄 *Automated healthcare data governance pipeline.* Implements automated data classification, encryption key rotation, and GDPR/HIPAA compliance validation.
 
-19. **[baadiff](https://github.com/cognis-digital/baadiff)** [![GitHub stars](https://img.shields.io/github/stars/cognis-digital/baadiff?style=social&color=white)](https://github.com/cognis-digital/baadiff/stargazers)  
+19. **[baadiff](https://github.com/cognis-digital/baadiff)** [![GitHub_Stars](https://img.shields.io/github/stars/cognis-digital/baadiff?style=social&color=white)](https://github.com/cognis-digital/baadiff/stargazers)  
     🛡️ *HIPAA Security Rule readiness scanner for codebases.* Evaluates source code across 5 HIPAA categories and 140+ rules (§164.312 Access Control, Audit Logs, Encryption). Air-gapped CI safe with zero network calls and MCP server integration.
 
-20. **[Aegis](https://github.com/RastinAghighi/Aegis)** [![GitHub stars](https://img.shields.io/github/stars/RastinAghighi/Aegis?style=social&color=white)](https://github.com/RastinAghighi/Aegis/stargazers)  
+20. **[Aegis](https://github.com/RastinAghighi/Aegis)** [![GitHub_Stars](https://img.shields.io/github/stars/RastinAghighi/Aegis?style=social&color=white)](https://github.com/RastinAghighi/Aegis/stargazers)  
     🤖 *AI-native HIPAA code auditor powered by IBM Bob & MCP.* Exposes 6 compliance auditing tools over MCP to scan repositories, verify encryption, and generate auditor-ready evidence.
 
-21. **[HippocratAI](https://github.com/sparkybug/hippocrat-ai)** [![GitHub stars](https://img.shields.io/github/stars/sparkybug/hippocrat-ai)](https://github.com/sparkybug/hippocrat-ai/stargazers)  
+21. **[HippocratAI](https://github.com/sparkybug/hippocrat-ai)** [![GitHub_Stars](https://img.shields.io/github/stars/sparkybug/hippocrat-ai)](https://github.com/sparkybug/hippocrat-ai/stargazers)  
     🩺 *Multi-agent clinical compliance reviewer for PRs.* Deploys 5 specialized review agents checking regulatory compliance (HIPAA, FDA 21 CFR Part 11, FHIR R4) before code gets merged.
 
-22. **[Healthcare Record Manager](https://github.com/JukaleManmath/Healthcare-Record-Manager)** [![GitHub stars](https://img.shields.io/github/stars/JukaleManmath/Healthcare-Record-Manager?style=social&color=white)](https://github.com/JukaleManmath/Healthcare-Record-Manager/stargazers)  
+22. **[Healthcare Record Manager](https://github.com/JukaleManmath/Healthcare-Record-Manager)** [![GitHub_Stars](https://img.shields.io/github/stars/JukaleManmath/Healthcare-Record-Manager?style=social&color=white)](https://github.com/JukaleManmath/Healthcare-Record-Manager/stargazers)  
     ☁️ *AWS-native healthcare record automation platform.* Built with Flask, PostgreSQL, Docker, CloudFormation, and automated HIPAA audit logging.
 
-23. **[QMTRY Compliance Monitoring](https://github.com/dallen91801/QMTRY-Healthcare-Compliance-Monitoring)** [![GitHub stars](https://img.shields.io/github/stars/dallen91801/QMTRY-Healthcare-Compliance-Monitoring?style=social&color=white)](https://github.com/dallen91801/QMTRY-Healthcare-Compliance-Monitoring/stargazers)  
+23. **[QMTRY Compliance Monitoring](https://github.com/dallen91801/QMTRY-Healthcare-Compliance-Monitoring)** [![GitHub_Stars](https://img.shields.io/github/stars/dallen91801/QMTRY-Healthcare-Compliance-Monitoring?style=social&color=white)](https://github.com/dallen91801/QMTRY-Healthcare-Compliance-Monitoring/stargazers)  
     📈 *Audit-ready healthcare compliance pipeline.* Combines dbt, Great Expectations, and Streamlit with GitHub Actions to produce downloadable evidence packs for CMS, HIPAA, and HEDIS.
 
 ---
