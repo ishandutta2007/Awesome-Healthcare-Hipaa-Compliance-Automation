@@ -25,6 +25,7 @@
 - [🏗️ Recommended Architecture & Frameworks](#️-recommended-architecture--frameworks)
 - [⭐ Star History](#-star-history)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚖️ Disclaimer & Compliance Notice](#️-disclaimer--compliance-notice)
 
 ---
@@ -204,6 +205,32 @@ We actively welcome contributions from healthcare privacy engineers, compliance 
 5. 🚀 **Submit a Pull Request (PR)** with a concise description of the tool and its healthcare compliance relevance.
 
 If this curated ecosystem helps your organization stay compliant and secure, please give us a **Star** ⭐!
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and supporting the **Awesome Healthcare HIPAA Compliance Automation** ecosystem! 🏥✨
+
+Maintaining this directory, tracking regulatory updates, and reviewing active open-source healthtech tools takes continuous effort. If this repository has saved your engineering or compliance team hours of research, helped you prepare for an audit, or simplified your PHI data pipelines, please consider showing your support:
+
+* ⭐ **Star the Repo:** Click the star button at the top right to help other developers and compliance leaders find this guide.
+* 🍴 **Fork & Contribute:** Fork the repository, add your favorite tools, and help expand our coverage.
+* 📢 **Share with Your Network:** Recommend this list to your team, colleagues, and healthcare developer communities on LinkedIn, X/Twitter, or Reddit.
+* ☕ **Buy Me a Coffee / Sponsor:** You can directly sponsor ongoing maintenance and research via the GitHub Sponsors Dashboard:
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor%20Me-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+  <a href="https://github.com/sponsors/ishandutta2007" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+👉 **Sponsor Dashboard Link:** [https://github.com/sponsors/ishandutta2007](https://github.com/sponsors/ishandutta2007)
+
+Every contribution and star is greatly appreciated! Thank you for helping build an open, accessible healthcare compliance community. 💙
 
 ---
 
